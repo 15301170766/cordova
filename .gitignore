@@ -23,6 +23,6 @@ yarn-error.log*
 # Cordova
 /src-cordova/platforms
 /src-cordova/plugins
-# /src-cordova/www
+/src-cordova/www
 /src-cordova/hooks
 /public/cordova.js
